@@ -1,3 +1,3 @@
 # Text-to-Speech
-Text To Speech is a technology that enables your text to be converted into speech sounds. 
-In this we can convert our text into speech on different voices. A pause,resume and cancel option are available. We can also change the volume,pitch and the rate by using range sliders.
+Text To Speech is a technology which permits the conversion of text into speech sounds.
+We can offer the text to be read in different voices according to our preference. A pause, resume, and cancel option is available so we can interrupt or resume the conversion. We can also alter the volume, pitch and rate of the audio.
